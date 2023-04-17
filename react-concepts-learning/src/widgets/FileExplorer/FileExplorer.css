@@ -1,0 +1,9 @@
+.fileFolder {
+  margin: 4px;
+}
+
+.fileName {
+  background-color: aquamarine;
+  margin-bottom: 4px;
+  /* margin: 10px; */
+}
